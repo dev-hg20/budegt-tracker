@@ -16,7 +16,7 @@ Technologies utilised to create this application include:
 
 ## Deployment
 
-This application has been deployed across Heroku, you can view this here: https://git.heroku.com/stormy-plains-01294.git
+This application has been deployed across Heroku, you can view this here: https://evening-crag-09648.herokuapp.com/
 
 ## Application Preview
 
